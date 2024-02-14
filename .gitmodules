@@ -1,0 +1,3 @@
+[submodule "themes/hayflow"]
+	path = themes/hayflow
+	url = https://gitlab.com/cyril-marpaud/hayflow.git
