@@ -29,8 +29,8 @@ name = { first = "chris", last = "peoples" }
 
 links = [
    { icon = "fa-solid fa-envelope", url = "mailto:peoples.chris@gmail.com" },
-   { icon = "fa-brands fa-linkedin", url = "https://www.linkedin.com/in/chrispeoples/" },
-   { icon = "fa-brands fa-gitlab", url = "" },
+   { icon = "fa-brands fa-linkedin", url = "https://linkedin.com/in/chrispeoples" },
+   { icon = "fa-brands fa-gitlab", url = "https://gitlab.com/cpeoples" },
    { icon = "fa-brands fa-github-alt", url = "https://github.com/cpeoples" },
 ]
 
