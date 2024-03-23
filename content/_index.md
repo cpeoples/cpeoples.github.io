@@ -1,4 +1,4 @@
 +++
 [extra]
-roles = ["Software Development Engineer in Test 🚀", "", "Software Quality Assurance Engineer 🛠️"]
+roles = ["Experienced Security Research Engineer 🚀", "", "Experienced Software Quality Assurance Engineer 🛠️", "", "Experienced iOS • Android Mobile Application Developer 📱"]
 +++
